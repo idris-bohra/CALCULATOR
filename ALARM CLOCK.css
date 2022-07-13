@@ -1,0 +1,25 @@
+.container
+{
+   background-color: rgb(32, 126, 129);
+   border: 2px solid rgb(32, 126, 129);
+   border-radius: 9px;
+   height: 300px;
+}
+
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+
+button,label
+{
+    margin: 10px;
+}
+
+h1
+{
+    color: beige;
+    position: relative;
+    margin-left: 40%;
+
+}
